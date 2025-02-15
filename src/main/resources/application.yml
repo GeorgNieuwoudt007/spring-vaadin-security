@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-vaadin-security
+
+vaadin:
+  react:
+    enable: true
+  launch-browser: true
